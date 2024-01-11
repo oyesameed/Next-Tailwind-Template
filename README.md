@@ -1,4 +1,4 @@
- Next.js Template with Tailwind CSS
+# Next.js Template with Tailwind CSS
 
 This repository serves as a template for a Next.js project with built-in support for Tailwind CSS. It comes pre-configured with a basic Tailwind CSS theme to kickstart your web development projects.
 
